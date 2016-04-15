@@ -1,14 +1,15 @@
 Just got a new Mac Laptop or Desktop? Here is my current setup process for a new machine.
 
 INITIAL
-1. [Chrome Web Browser](https://www.google.com/chrome/)
-1. [iTerm2](https://www.iterm2.com)
-1. Install Xcode
+
+- [Chrome Web Browser](https://www.google.com/chrome/)
+- [iTerm2](https://www.iterm2.com)
+- Install Xcode
 ```
 $ xcode-select --install
 ```
-1. [Install Homebrew](brew.sh)
-1. Install Zsh
+- [Install Homebrew](brew.sh)
+- Install Zsh
 - [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh)
 
 TEXT EDITOR
