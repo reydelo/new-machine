@@ -2,13 +2,13 @@ Just got a new Mac Laptop or Desktop? Here is my current setup process for a new
 
 INITIAL
 1. [Chrome Web Browser](https://www.google.com/chrome/)
-2. [iTerm2](https://www.iterm2.com)
-3. Install Xcode
+1. [iTerm2](https://www.iterm2.com)
+1. Install Xcode
 ```
 $ xcode-select --install
 ```
-4. [Install Homebrew](brew.sh)
-5. Install Zsh
+1. [Install Homebrew](brew.sh)
+1. Install Zsh
 - [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh)
 
 TEXT EDITOR
