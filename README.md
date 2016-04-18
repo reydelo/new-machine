@@ -1,30 +1,68 @@
-Just got a new Mac Laptop or Desktop? Here is my current setup process for a new machine.
+Just got a new Mac Laptop or Desktop?
+Here is my current setup process for a new machine.
 
-INITIAL
+[Xcode/CLI Tools](https://developer.apple.com/xcode/)
 
-- [Chrome Web Browser](https://www.google.com/chrome/)
-- [iTerm2](https://www.iterm2.com)
-- Install Xcode
-```
-$ xcode-select --install
-```
+#### PACKAGE MANAGER
 - [Install Homebrew](brew.sh)
+```sh
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+brew doctor
+```
+```sh
+brew install caskroom/cask/brew-cask
+
+brew cask install alfred
+
+brew cask install caffeine
+
+brew cask install github
+
+brew cask install dash
+
+brew cask install iterm2
+
+brew cask install spectacle
+
+brew cask install the-unarchiver
+
+brew cask install vlc
+
+brew install docker boot2docker
+boot2docker init
+boot2docker up
+
+brew install postgres --no-ossp-uuid
+brew pin postgres
+```
+#### WEB BROWSERS
+- [Chrome](https://www.google.com/chrome/)
+- [Firefox](firefox.com)
+
+#### TERMINAL EMU
+- [iTerm2](https://www.iterm2.com)
+
+
+#### SHELL
 - Install Zsh
 - [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh)
-
-TEXT EDITOR
+```sh
+curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+```
+#### TEXT EDITOR
   - [Atom](https://atom.io)
   - [SublimeText3](https://www.sublimetext.com/3)
   - [Brackets](https://brackets.io)
 
-MESSAGING
+#### MESSAGING
 - [Slack](https://slack.com)
 
-PRODUCTIVITY
+#### PRODUCTIVITY
 - [Spectacle](https://www.spectacleapp.com/)
 - [Alfred](https://www.alfredapp.com/)
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/)
 - [Postman](https://www.getpostman.com/)
+- [Dropbox](www.dropbox.com)
 
-FTP CLIENT
+#### FTP CLIENT
 - [Transmit](https://panic.com/transit)
