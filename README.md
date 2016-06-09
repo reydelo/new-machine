@@ -4,7 +4,7 @@ Here is my current setup process for a new machine.
 [Xcode/CLI Tools](https://developer.apple.com/xcode/)
 
 #### PACKAGE MANAGER
-- [Install Homebrew](brew.sh)
+- [Install Homebrew](http://brew.sh)
 ```sh
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 brew doctor
