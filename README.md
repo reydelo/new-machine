@@ -37,7 +37,7 @@ brew pin postgres
 ```
 #### WEB BROWSERS
 - [Chrome](https://www.google.com/chrome/)
-- [Firefox](firefox.com)
+- [Firefox](http://firefox.com)
 
 #### TERMINAL EMU
 - [iTerm2](https://www.iterm2.com)
@@ -62,7 +62,7 @@ curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | 
 - [Alfred](https://www.alfredapp.com/)
 - [CheatSheet](https://www.mediaatelier.com/CheatSheet/)
 - [Postman](https://www.getpostman.com/)
-- [Dropbox](www.dropbox.com)
+- [Dropbox](http://www.dropbox.com)
 
 #### FTP CLIENT
 - [Transmit](https://panic.com/transit)
